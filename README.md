@@ -6,4 +6,4 @@
     ----------------------------------------------------------------- 
 
 
-My Version of the Udacity Intro to HTML & CSS Lesson 4 Bootstrap mockup exercise.
+Bootstrap mockup exercise.
